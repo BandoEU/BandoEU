@@ -1,7 +1,7 @@
 <p align="center">
   <b>🎨 Follow me here 🎨</b><br>  
   <a href="https://discordlookup.com/user/1013677257572753428">Discord</a> |
-  <a href="https://github.com/Plasmonix">Github</a><br><br>
+  <a href="https://github.com/BandoEU">Github</a><br><br>
   <img src="https://i.ibb.co/L8s1j2g/718809c335de70a85563746323ed4892.gif" width="1000">
   </p>
 
