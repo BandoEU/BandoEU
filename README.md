@@ -1,6 +1,6 @@
 <p align="center">
   <b> Follow me here </b><br>  
-  <a href="https://discordlookup.com/user/1013677257572753428">Discord</a> |
+  <a href="https://guns.lol/suntik">Socials</a> |
   <a href="https://github.com/BandoEU">Github</a><br><br>
 </p>
 
@@ -16,11 +16,10 @@ Bandoeu x B******
 
    [U]ser  :  Bandoeu
    [M]ail  :  bandoeu[@]cocaine.ninja
-   [Y]***  :  "After Death Is Life Forever"
+   [Q]***  :  "After Death Is Life Forever"
 
 
 
- Terminal  :  Ygg[C]
     Alias  :  Bando
-Languages  :  Py, Js, Ts, PHp
+Languages  :  Py, Js, Ts, Go, C#
 ```
